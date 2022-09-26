@@ -17,3 +17,7 @@
 5.将修改好后的源码保存为html格式再上传到你网站服务器或腾讯云cos对象存储中即可
 
 ![需要在支付宝赚钱红包页面点击分享2.png](https://vip2.loli.io/2022/09/26/KjX2dIHDkrOBgFN.png)
+
+微信扫一扫查看示例：
+
+![扫描领红包.png](https://vip2.loli.io/2022/09/26/ybmzdwR9G5Ma4Xx.png)
